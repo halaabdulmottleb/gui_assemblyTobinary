@@ -1,0 +1,4 @@
+add $t0,$s1,$s2
+sll $t2,$s0,4
+lw $t0,32($s3)
+addi $s1,$s2,4
